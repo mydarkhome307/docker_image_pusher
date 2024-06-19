@@ -1,5 +1,5 @@
 xhofe/alist:latest
 portainer/portainer:latest
-zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt:latest
+zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
