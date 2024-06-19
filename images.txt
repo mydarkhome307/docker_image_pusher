@@ -1,5 +1,4 @@
 #xhofe/alist:latest
 portainer/portainer:latest
-koenkk/zigbee2mqtt:latest-dev
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm/v6 koenkk/zigbee2mqtt
