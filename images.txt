@@ -1,5 +1,6 @@
 #xhofe/alist:latest
 portainer/portainer:latest
 ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/home-assistant/raspberrypi4-homeassistant:2024.6.3
 #支持指定架构
 --platform=linux/arm/v6 koenkk/zigbee2mqtt
