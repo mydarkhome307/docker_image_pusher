@@ -2,7 +2,6 @@
 portainer/portainer:latest
 ghcr.io/home-assistant/home-assistant:stable
 ghcr.io/home-assistant/raspberrypi4-homeassistant:2024.6.3
-ghcr.io/hassio-addons/mosquitto/armv7-addon-mosquitto:6.4.1
-mysql:8.0.20
+docker.io/mysql:8.0.20
 #支持指定架构
 --platform=linux/arm/v6 koenkk/zigbee2mqtt
