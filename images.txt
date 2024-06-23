@@ -2,6 +2,6 @@
 portainer/portainer:latest
 ghcr.io/home-assistant/home-assistant:stable
 ghcr.io/home-assistant/raspberrypi4-homeassistant:2024.6.3
-ghcr.io/home-assistant/raspberrypi4-armv7-addon-mosquitto:6.4.1
+ghcr.io/home-assistant/mosquitto/addon-mosquitto:6.4.1
 #支持指定架构
 --platform=linux/arm/v6 koenkk/zigbee2mqtt
