@@ -9,5 +9,6 @@ nodered/node-red:latest
 emqx/emqx:latest
 docker.io/php:7.4-fpm
 c794103684/face_recognition
+homeassistant/home-assistant:latest
 #支持指定架构
 --platform=linux/arm/v6 koenkk/zigbee2mqtt
