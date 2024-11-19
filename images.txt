@@ -11,6 +11,6 @@ docker.io/php:7.4-fpm
 c794103684/face_recognition
 homeassistant/home-assistant:latest
 homeassistant/qemux86-64-homeassistant:tag
-ghcr.io/home-assistant/amd64-hassio-supervisor:2024.01.1
+ghcr.io/home-assistant/amd64-hassio-supervisor
 #支持指定架构
 --platform=linux/arm/v6 koenkk/zigbee2mqtt
